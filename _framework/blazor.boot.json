@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TesteBlazorWasm",
   "resources": {
-    "hash": "sha256-XSWKcq/QZ+WkUZWn5dJf8samxoOEg+NVu7TDFyh5DUE=",
+    "hash": "sha256-7YT6vTcFB0YI9pTUYdOxdDA+O9zNX15fqDhOUci7BqE=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.8j38mruodu.js": "sha256-Gq/YqqvNIKGS+Awu1ozolYJd8VGcjbgMH4sU5hvZvTs="
     },
@@ -48,7 +48,7 @@
       "System.Text.Encodings.Web.wasm": "sha256-V69v6JYAgTsrgM4epAyn/+1+KjM60Hxzokb2hKtbPt0=",
       "System.Text.Json.wasm": "sha256-yFpd40kxP4a+bknxLmZWmpA4LMA6DykjaWwdnz3di+0=",
       "System.Text.RegularExpressions.wasm": "sha256-o6Ef/uOI9sFxJXKnXQbJnRMbcIIJ/ZFdc4fFqA9wu7Y=",
-      "TesteBlazorWasm.wasm": "sha256-ZblYSa3p+fSVOB16wLTK1k+ENyOgj6ox8oAmiZU2gxE="
+      "TesteBlazorWasm.wasm": "sha256-am3P217uUc5kmhTBfYrNxrbBqLxdSfpYsSgcerOd4V8="
     }
   },
   "cacheBootResources": true,
